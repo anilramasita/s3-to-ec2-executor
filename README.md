@@ -7,3 +7,6 @@
 5. Once you have connected, copy this to your command prompt "aws s3 cp s3://your-bucket-name/your-file-name /your-pwd/"
 6. This will make a copy of file from s3 bucket to your working directory
 7. Once finished, execute the file, ex: If it is python file then "python file-name.py"
+
+
+![Image](https://github.com/user-attachments/assets/55f6150d-230a-48d2-9b99-0042251aa70f)
