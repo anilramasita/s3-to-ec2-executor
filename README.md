@@ -1,5 +1,7 @@
 # s3-to-ec2-executor
 
+# STEP BY STEP PROCEDURE
+
 1. Run an ec2 instance from aws management console
 2. Create a unique s3 bucket, upload ay files that you need to execute
 3. Create an IAM role and change the security permissions for the instance you have created to that IAM role
